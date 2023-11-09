@@ -1,0 +1,50 @@
+Statue of Liberty, 40.6892, -74.0445
+Grand Canyon, 36.0551, -112.1401
+Niagara Falls, 43.0802, -79.0717
+Yellowstone National Park, 44.4280, -110.5885
+Mount Rushmore, 43.8789, -103.4594
+Walt Disney World, 28.3928, -81.5707
+Yosemite National Park, 37.8651, -119.5383
+White House, 38.8977, -77.0376
+Denali National Park, 63.1148, -151.1926
+New Orleans French Quarter, 29.9590, -90.0632
+The Alamo, 29.4259, -98.4861
+Banff National Park, 51.4968, -115.9281
+Mount St. Helens, 46.1918, -122.1944
+Chichen Itza, 20.6843, -88.5678
+Key West, 24.5551, -81.7800
+Rocky Mountains, 39.5501, -105.7821
+Baja California Peninsula, 28.7021, -113.5439
+Quebec City, 46.8139, -71.2080
+Great Smoky Mountains National Park, 35.6743, -83.4836
+Bryce Canyon National Park, 37.5930, -112.1871
+San Francisco Golden Gate Bridge, 37.8199, -122.4783
+Vancouver, 49.2827, -123.1207
+Mount McKinley (Denali), 63.0695, -151.0070
+Lake Tahoe, 39.0968, -120.0324
+Acadia National Park, 44.3386, -68.2733
+Antelope Canyon, 36.8619, -111.3740
+Machu Picchu, 13.1631, -72.5450
+Vancouver Island, 49.6506, -125.4494
+The Rocky Steps (Philadelphia Museum of Art), 39.9658, -75.1829
+Joshua Tree National Park, 33.8734, -115.9010
+Santa Fe, 35.6828, -105.9378
+Sedona, 34.8697, -111.7605
+New York Central Park, 40.7851, -73.9683
+Mount Hood, 45.3731, -121.6952
+Carlsbad Caverns, 32.1751, -104.4437
+Lake Louise, 51.4174, -116.2200
+Glacier National Park, 48.7596, -113.7870
+Monument Valley, 36.9982, -110.0985
+Myrtle Beach, 33.6891, -78.8867
+Big Sur, 36.3615, -121.8563
+Charleston, 32.7765, -79.9311
+Great Barrier Reef, 18.2861, 147.6992
+Hawaii Volcanoes National Park, 19.4060, -155.2834
+Lake Placid, 44.2795, -73.9791
+Outer Banks, 35.5585, -75.4661
+Napa Valley, 38.5025, -122.2654
+Zion National Park, 37.2982, -113.0263
+Mammoth Cave National Park, 37.1863, -86.1003
+Olympic National Park, 47.8021, -123.6044
+Puerto Vallarta, 20.6534, -105.2253
